@@ -1,11 +1,11 @@
 # Site settings
 author: Ismael Hasan
-title: Flatiron - Software Engineering
+title: Flatiron School
 header-img: img/home-bg.png
 email: ismael.hasan@live.com
 copyright_name: Ismael Hasan
 description: > # this means to ignore newlines until "baseurl:"
-  A Continuation of a Passion
+  Online Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ihasan04
